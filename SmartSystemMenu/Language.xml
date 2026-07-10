@@ -3461,7 +3461,7 @@
       <item name="tab_settings_menu_size" value="Menú (Redimensionar)" />
       <item name="tab_settings_menu_move_to" value="Menú (Mover a)" />
       <item name="tab_settings_menu_save" value="Menú (Guardar)" />
-      <item name="tab_settings_menu_dimmer" value="Menú (Atenuar)" />
+      <item name="tab_settings_menu_dimmer" value="Menú (Atenuar fondo)" />
       <item name="grpb_dimmer_color" value="Color" />
       <item name="grpb_dimmer_transparency" value="Transparencia" />
       <item name="grpb_closer" value="Cerrar ventana haciendo clic con el mouse" />
